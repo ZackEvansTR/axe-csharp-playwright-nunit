@@ -1,0 +1,1 @@
+I'm using .NET 10.0 SDK. Clone repo and run `dotnet test`. Axe JSON results will be in `./axe-json`. To upload to a DevHub instance run using the axe-core CLI run `axe devhub PATH_TO_RESULTS --axe-devhub-api-key YOUR_DEVHUB_PROJECT_API_KEY `
